@@ -1,6 +1,5 @@
 import pandas as pd
 import streamlit as st
-import plotly.express as px
 import random
 import numpy as np
 import matplotlib.pyplot as plt
@@ -18,13 +17,10 @@ from sklearn import preprocessing
 from sklearn.linear_model import LassoCV
 from fancyimpute import SoftImpute
 from fancyimpute import IterativeImputer as MICE
-import plotly.express as px
 from Missxgb import Missxgb
 import misslgb
 from gain import gain 
-
 import Missxgb
-
 
 import lightgbm as lgb
 st.title('Machine Learning for Biologists')
