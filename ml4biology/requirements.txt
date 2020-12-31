@@ -12,4 +12,4 @@ tensorflow==2.1.0
 tensorflow-gpu==2.1.0
 tqdm==4.50.2
 scipy==1.4.1
-py-xgboost==0.90 
+xgboost==0.90 
