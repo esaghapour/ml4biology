@@ -5,9 +5,7 @@ numpy==1.19.2
 matplotlib==3.3.2 
 seaborn==0.10.1
 missingpy==0.2.0
-sklearn-contrib-lightning==0.5.0
-sklearn-contrib-py-earth==0.1.0
-sklearn-crfsuite==0.3.6 
+scikit-learn
 fancyimpute==0.5.5 
 lightgbm==2.3.1
 tensorflow==2.1.0
