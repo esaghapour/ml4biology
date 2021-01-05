@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run ml-app.py
+web: target/universal/stage/bin/ml-app -Dhttp.port=${PORT}
