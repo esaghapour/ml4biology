@@ -3,7 +3,6 @@ streamlit==0.72.0
 numpy==1.19.2
 matplotlib==3.3.2 
 seaborn==0.10.1
-missingpy==0.2.0
 scikit-learn
 fancyimpute==0.5.5 
 lightgbm==2.3.1
